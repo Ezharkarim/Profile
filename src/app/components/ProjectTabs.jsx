@@ -6,8 +6,8 @@ const variants = {
   active: { width: "calc(100% - 0.75rem)" },
 };
 
-const TabButtons = ({ active, selectTab, children }) => {
-  const buttonClasses = active ? "text-white border-b-2 border-purple-500" : "text-[#ADB7BE]";
+const ProjectTabs = ({ active, selectTab, children }) => {
+  const buttonClasses = active ? "text-white" : "text-[#ADB7BE]";
 
   return (
     <button onClick={selectTab}>
@@ -23,4 +23,4 @@ const TabButtons = ({ active, selectTab, children }) => {
   );
 };
 
-export default TabButtons;
+export default ProjectTabs;
