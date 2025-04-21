@@ -94,7 +94,7 @@ const AboutMe = () => {
               Certifications{" "}
             </TabButton>
           </div>
-          <div className="mt-8">
+          <div className="mt-2">
             {TAB_DATA.find((t) => t.id === tab).content}
           </div>
         </div>
