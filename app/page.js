@@ -1,4 +1,5 @@
 import AboutMe from "@/src/app/components/AboutMe";
+import ContactMe from "@/src/app/components/ContactMe";
 import HeroSection from "@/src/app/components/HeroSection";
 import Navbar from "@/src/app/components/Navbar";
 import ProjectSection from "@/src/app/components/ProjectSection";
@@ -11,6 +12,7 @@ export default function Home() {
      <HeroSection />
      <AboutMe/>
      <ProjectSection/>
+     <ContactMe/>
      </div>
       
     </main>
