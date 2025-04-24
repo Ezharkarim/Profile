@@ -1,6 +1,7 @@
 import AboutMe from "@/src/app/components/AboutMe";
 import AchievementsSection from "@/src/app/components/AchievmentsSection";
 import ContactMe from "@/src/app/components/ContactMe";
+import Footer from "@/src/app/components/Footer";
 import HeroSection from "@/src/app/components/HeroSection";
 import Navbar from "@/src/app/components/Navbar";
 import ProjectSection from "@/src/app/components/ProjectSection";
@@ -16,7 +17,7 @@ export default function Home() {
      <ProjectSection/>
      <ContactMe/>
      </div>
-      
+      <Footer/>
     </main>
   );
 }
