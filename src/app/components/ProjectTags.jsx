@@ -15,3 +15,4 @@ const ProjectTags = ({ name, onClick, isSelected }) => {
 };
 
 export default ProjectTags;
+
