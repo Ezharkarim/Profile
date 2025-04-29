@@ -1,0 +1,9 @@
+{
+  "[project]/node_modules/react-animated-numbers/dist/index.js [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/node_modules/react-animated-numbers/dist/index.js [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/node_modules_8b8339bf._.js",
+      "static/chunks/node_modules_react-animated-numbers_dist_index_0a2908dc.js"
+    ]
+  }
+}
