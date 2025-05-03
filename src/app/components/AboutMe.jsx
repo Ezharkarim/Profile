@@ -16,6 +16,7 @@ const TAB_DATA = [
         <li>Express</li>
         <li>MongoDB</li>
         <li>MySQL</li>
+        <li>Redux ToolKit</li>
         <li>Wix Velo</li>
         <li>Wix Editor</li>
         <li>Wix Studio</li>
